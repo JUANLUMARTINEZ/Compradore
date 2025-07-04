@@ -1,0 +1,8 @@
+Crea una aplicación web, para la realización de compras en el hogar. La aplicación debe: 
+1. Permitir añadir o tachar elementos de la lista a medida que se vayan comprando. 
+2. Debe tener un estilo bonito y claro, bien organizado, optimizado para verse en teléfonos móviles, debe guardarse en Localstorage.
+3. Debe tener una casilla de marcación para cuando alguien está comprando que se muestre al principio de la pantalla, que salga en color rojo. 
+4. Debe tener al final de la lista una casilla que permita borrar de la lista los elementos ya comprados que estén tickados. 
+5. Los elementos de la lista se añadirán con una barra de introducción de texto. 
+6. Usa un diseño limpio y minimalista con Tailwind, CSS y javaScript en un solo archivo. 
+7. Debe parecer una libreta física.
