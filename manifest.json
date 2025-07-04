@@ -1,10 +1,12 @@
 {
-  "name": "Lista de Compras",
-  "short_name": "Compras",
-  "start_url": "index.html",
+  "name": "Comprador",
+  "short_name": "Comprador",
+  "description": "Lista de compras sincronizada con Firebase",
+  "start_url": "/Compradore/index.html",
   "display": "standalone",
   "background_color": "#fef9c3",
-  "theme_color": "#fef9c3",
+  "theme_color": "#facc15",
+  "orientation": "portrait",
   "icons": [
     {
       "src": "icon-512.png",
